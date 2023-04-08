@@ -22,7 +22,7 @@ The React Mobile Social is an open source social app use [React Native](https://
 
 ### Installing
 
-1. Fork the [react-mobile-social](https://github.com/dt-win/React-Native-Social-App) repository on Github
+1. Fork the [ReactNative Social App](https://github.com/dt-win/React-Native-Social-App) repository on Github
 1. Clone your fork to your local machine 
    ```bash
    git clone git@github.com:<yourname>/React-Native-Social-App
