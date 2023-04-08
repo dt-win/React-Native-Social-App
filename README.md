@@ -16,7 +16,7 @@ The React Mobile Social is an open source social app use [React Native](https://
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/dt-win/React-Native-Social-App/main/docs/app/screen-shot_iphone7.png">
+    <img src="/docs/app/screen-shot_iphone7.png">
   </a>
 </p>
 
