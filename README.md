@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/dt-win/React-Native-Social-App">
-    <img height="128" width="128" src="/ios/socail/Images.xcassets/Image.imageset/logo(1).png">
+    <img height="128" width="128" src="/docs/app/logo.png">
   </a>
 </p>
 <!-- Name -->
