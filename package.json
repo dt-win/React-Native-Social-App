@@ -14,7 +14,7 @@
     "initials": "^2.1.5",
     "lodash": "^4.17.21",
     "lodash.merge": "^4.6.0",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "prop-types": "^15.5.10",
     "react": "16.0.0-alpha.12",
     "react-native": "^0.45.1",
